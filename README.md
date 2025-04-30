@@ -14,9 +14,10 @@
 
 - **Symfony Framework** (PHP)
 - **Twig** for templating
-- **JavaScript**
-- **MySQL** (via XAMPP)
-- **Java** (external desktop application integration)
+- **CSS** for design
+- **JavaScript** for dynamic events
+- **Yaml** 
+- **MySQL** (via XAMPP) 
 
 ## Getting Started
 
